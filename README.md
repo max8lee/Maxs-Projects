@@ -15,5 +15,6 @@ FINDAUTHOR
 - The uploaded project does not have a set of texts to test but texts can be added as .txt files.
 
 GDF-11 PROJECT
+- These files are from my high school summer project researching the GDF-11 protein.
 - Only my first algorithm for finding significant identical gene sequences is uploaded here. Other algorithms are not 100% mine and thus private.
 
