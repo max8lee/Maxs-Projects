@@ -2,11 +2,10 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 /**
- * @author Anu Datar
- * 
  * Changed block size and added a split panel display for next block and Score
  * 
- * @author Ryan Adolf
+ * @author Anu Datar
+ * @author Max Lee
  * @version 1.0
  * 
  * Fixed the lag issue with block rendering 
