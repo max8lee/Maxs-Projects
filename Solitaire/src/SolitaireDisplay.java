@@ -4,6 +4,10 @@ import java.io.*;
 import java.util.*;
 import javax.swing.*;
 
+/**
+ * Displays a game of Solitaire.
+ * @author Max Lee
+ */
 public class SolitaireDisplay extends JComponent implements MouseListener
 {
 	private static final int CARD_WIDTH = 73;
